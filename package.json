@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "end-of-stream": "^1.4.0",
+    "end-of-stream": "^1.4.4",
     "once": "^1.4.0",
     "readable-stream": "^2.3.3"
   },
